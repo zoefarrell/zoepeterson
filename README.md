@@ -1,7 +1,7 @@
 ![Hello!](https://user-images.githubusercontent.com/11747682/149534053-ae28adf1-3b67-44c3-a4fb-762b00171f91.png)
 
 <h1 align="center">Hi 👋, I'm Zoe (She/Her) </h1>
-<h3 align="center">A Full Stack Developer and Educator.</h3>
+<h3 align="center">A Full Stack Developer and Educator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoepeterson&label=Profile%20views&color=0e75b6&style=flat" alt="zoepeterson" /> </p>
 
@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/zoepeterson**
 
-- When not coding or teaching, you can find me biking 🚴‍♀️, playing pickleball 🌤️
-, knitting 🧶, or trying out a new craft 🎨!**
+- When not coding or teaching, you can find me **biking** 🚴‍♀️, **playing pickleball** 🌤️
+, or **trying out a new craft** 🧶!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
