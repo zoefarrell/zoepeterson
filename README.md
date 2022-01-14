@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/zoepeterson**
 
-- ⚡ Fun fact **When not coding or teaching, Zoe can be found biking 🚴‍♀️, playing pickleball 🌤️
+- When not coding or teaching, you can find me biking 🚴‍♀️, playing pickleball 🌤️
 , knitting 🧶, or trying out a new craft 🎨!**
 
 <h3 align="left">Connect with me:</h3>
